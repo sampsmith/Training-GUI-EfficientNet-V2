@@ -1,6 +1,7 @@
-# ISPM 15 Defect Classifier 🏭
+# Training GUI for Deep learning
 
-A comprehensive deep learning solution for detecting defects in ISPM 15 (International Standards for Phytosanitary Measures) wood packaging materials. This project includes both command-line tools and user-friendly GUI applications for training and inference.
+Currently only has classification however I want to build this to allow for deep learning object detection, segmentation, OBB etc without the need to run lines of code etc.  
+
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)
